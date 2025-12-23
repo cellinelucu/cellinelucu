@@ -27,12 +27,12 @@ export function WelcomeOverlay({ onClose }: WelcomeOverlayProps) {
 
         <div className="relative z-10">
           <div className="text-4xl mb-4">👋</div>
-          <h2 className="mb-2">Hai kamu!</h2>
+          <h2 className="mb-2">Heyooww makuuu!</h2>
           <p className="text-gray-600 text-sm leading-relaxed">
-            Kalender ini cuma boleh dibuka  
-            <span className="font-semibold"> satu hari satu kejutan </span> ya 😆  
+            Hadiaa spesiaal untuk orang spesiaall <br />
+            <span className="font-semibold"> Kalender Harian Selama Libur </span>
             <br />
-            Jangan curang~
+            Cemoga cukaaaa
           </p>
 
           <button

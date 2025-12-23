@@ -14,8 +14,8 @@ export function CalendarMonth({ year, month, theme, onDayClick, openedDays }: Ca
   const today = new Date();
   today.setHours(0, 0, 0, 0);
 
-  const startDate = new Date(2025, 11, 23); // December 24, 2025
-  const endDate = new Date(2026, 1, 3); // February 3, 2026
+  const startDate = new Date(2025, 11, 24); // December 24, 2025
+  const endDate = new Date(2026, 1, 1); // February 3, 2026
 
   // Get first day of month and total days
   const firstDay = new Date(year, month, 1);

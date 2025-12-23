@@ -108,10 +108,10 @@ export function CalendarView({ onDayClick, openedDays }: CalendarViewProps) {
           
           <div className="flex items-center justify-center gap-3 mb-4">
             <Calendar className={`w-8 h-8 md:w-10 md:h-10 ${themeStyles.iconColor}`} />
-            <h1 className={themeStyles.titleColor}>Kalender Advent Lucu</h1>
+            <h1 className={themeStyles.titleColor}>Kalender Penghitung Waktu Menuju Giku</h1>
           </div>
           <p className="text-gray-600 text-sm md:text-base">
-            Buka satu kartu setiap hari untuk kejutan spesial! 🎁
+            Dari giku untuk maku selama ldr✈️
           </p>
         </div>
 

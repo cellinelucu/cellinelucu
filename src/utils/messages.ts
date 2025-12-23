@@ -6,9 +6,9 @@ export function getMessagesForDate(date: Date): string {
 
   const messages: Record<string, string> = {
     // December 2025
-    '11-24': '🎄 Selamat datang di Hari Natal Eve! Semoga hari ini penuh dengan kehangatan dan cinta bersama keluarga tersayang. Jangan lupa untuk berbagi kebahagiaan!',
-    '11-25': '🎅 Ho ho ho! Selamat Hari Natal! Semoga hadiah dari Santa membawa senyuman di wajahmu. Hari ini adalah hari untuk merayakan keajaiban dan kebersamaan!',
-    '11-26': '🎁 Boxing Day! Waktunya untuk bersantai dan menikmati sisa-sisa perayaan Natal. Semoga kamu mendapat waktu berkualitas bersama orang-orang terkasih!',
+    '11-24': '🎁 Huaaa, ga kerasa uda mau natal aja besookk. Tapi yang lebi serunya hari ini kita jayan-jayaannn, photobooth, buat vlog, video, dll, apapun yang dilakuin sama maku giku senaaangggg. Daaaannn nanti malem juga mau ibadah natal bareng di gereja maku YEYEYEYYY. Maku gimanaaa, senang ga hari iniii, suka ga sama kado-kado dari Giku. Hayus suka yaawww. Hihiii okaii papai maku, ci u besoookk<3',
+    '11-25': '🎄 Merry Christmas sayaangg, yeyyy. Ini baru pertama kali Giku seseneng dan seexcited ini ngerayain natal karena bareng makuuuu. Semogaaa, untuk natal kedepannya kita bisa bareng terus yaaa dan sama-sama menjadi lebih baik untuk diri sendiri dan satu sama lainnnn, muachhh papaaiii<3',
+    '11-26': '🥹 Cedbrut la giku, maku suda mau berangkat besokk. Huhuu tapi takpapa la, maku pasti suda sangat excited karena gundam suda menunggu HAHAHAHA. Giku juga excited bisa spend time bareng keluarga nanti, dan semoga beneran bisa dan jadi refreshing terbaik gikuu. Walau LDR juga kita aman-aman aja tuu, ya kaaaannn (potret ucapan  manusia yang suka membuat masalah karena kangen pas ga ketemu). Mwehehehe semangat ya nanti selama LDR akwowwkw, semoga berjalan lancar sampe nanti ketemu yagi<3',
     '11-27': '⭐ Hari yang sempurna untuk merefleksikan tahun ini dan bersiap untuk tahun baru yang penuh harapan. Kamu sudah melakukan hal-hal luar biasa!',
     '11-28': '🔔 Suara lonceng masih bergema! Nikmati suasana liburan yang masih terasa hangat. Semoga hari ini penuh dengan kedamaian dan kebahagiaan!',
     '11-29': '❄️ Meskipun tahun ini hampir berakhir, masih banyak momen indah yang bisa kamu ciptakan. Tetap semangat dan nikmati setiap detiknya!',
